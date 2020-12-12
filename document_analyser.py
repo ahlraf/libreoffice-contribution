@@ -8,6 +8,7 @@ image count, non-whitespace character count, object count, OLE object count,
 page count, paragraph count, row count, sentence count, 
 syllable count, table count, textbox count, word count, and paragraph styles.
 
+
 """
 
 import odf
